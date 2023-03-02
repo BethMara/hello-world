@@ -1,6 +1,6 @@
 # hello-world
 Just getting it uploaded!
-# Project Title: Problem Solving and Analysis
+# The Mara Magic: How Dr. Beth Mara Transforms Your Data into Actionable Insights
 
 ## Introduction
 
